@@ -9,3 +9,5 @@ blog : https://apple-rbox.tistory.com/
 
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/16_SAMPLE1.png)
 
+
+![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/16_SAMPLE2.png)
