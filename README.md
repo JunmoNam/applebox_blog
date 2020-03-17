@@ -3,15 +3,15 @@ Contents for writing & updating blog
 blog : https://apple-rbox.tistory.com/
 
 ## list of contents
-1) Dataframe
-2) dplyr
-3) Q&A
-4) dplyr
-5) XGBoost
-6) parallel
-7) Shiny
-8) Word
-9) shinyapp
+01) Dataframe
+02) dplyr
+03) Q&A
+04) dplyr
+05) XGBoost
+06) parallel
+07) Shiny
+08) Word
+09) shinyapp
 10) social network
 13) Song scrap
 14) web scrapping
