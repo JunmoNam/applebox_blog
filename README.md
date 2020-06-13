@@ -19,7 +19,7 @@ blog : https://apple-rbox.tistory.com/
 16) geometry
 17) geometry(2)
 18) siamese net
-
+19) ggmap
 
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/10_SAMPLE10.png)
 
