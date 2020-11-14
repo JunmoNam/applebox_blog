@@ -13,6 +13,8 @@ blog : https://apple-rbox.tistory.com/
 08) Word
 09) shinyapp
 10) social network
+11)
+12)
 13) Song scrap
 14) web scrapping
 15) Data wrangling
