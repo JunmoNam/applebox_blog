@@ -24,7 +24,9 @@ blog : https://apple-rbox.tistory.com/
 19) ggmap
 20) leaflet
 
+<p align="center">
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/20_SAMPLE1.png)
+
 
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/10_SAMPLE10.png)
 
@@ -33,3 +35,4 @@ blog : https://apple-rbox.tistory.com/
 
 
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/16_SAMPLE2.png)
+</p>
