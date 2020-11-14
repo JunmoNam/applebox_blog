@@ -6,7 +6,7 @@ blog : https://apple-rbox.tistory.com/
 01) Dataframe
 02) dplyr
 03) Q&A
-04) dplyr
+04) dplyr(2)
 05) XGBoost
 06) parallel
 07) Shiny
