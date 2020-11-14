@@ -22,6 +22,7 @@ blog : https://apple-rbox.tistory.com/
 17) geometry(2)
 18) siamese net
 19) ggmap
+20) leaflet
 
 ![SAMPLE](https://github.com/JunmoNam/applebox_blog/blob/master/R/SAMPLE/10_SAMPLE10.png)
 
